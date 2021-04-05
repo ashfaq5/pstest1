@@ -1,3 +1,6 @@
+"publishConfig": {
+  "registry":"https://ashfaq5.github.io/pstest1/"
+},
 {
   "name": "pokemon-showdown",
   "description": "The server for the Pokémon Showdown battle simulator",
